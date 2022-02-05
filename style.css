@@ -1,0 +1,288 @@
+body{
+    padding-left:10%;
+    padding-right:10%;
+    background-color: #212121;
+}
+.navbar-brand{
+    color: #d6d6d6;
+    font-family: 'Supermercado One', cursive;
+    font-size: 2rem;
+}
+.navbar-brand:hover{
+    color: cyan;
+}
+.nav-link{
+    color: #d6d6d6;
+    font-size: 1.4rem;
+    font-family: 'Supermercado One', cursive;
+    font-weight: 500;
+}
+.nav-link:hover{
+    color: cyan;
+}
+.introduction{
+    padding-top:6%;
+    text-align: center;
+    padding-right:100px;
+}
+.img-pro{
+    width: 40%;
+    height: 55%;
+    border-radius:100px;
+    padding-right: 30px;
+    padding-left: 30px;
+    border: 3px solid cyan;
+}
+.img-pro:hover{
+    width: 35%;
+    height: 55%;
+    border-radius:100px;
+    border: 6px solid cyan;
+    padding-right: 0px;
+    padding-left: 0px;
+    
+    
+}
+.heading-1{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+.intro-1{
+    color:#d6d6d6 ;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size:1.6rem;
+}
+.fab{
+    color: #d6d6d6 ;
+    padding-top:40px;
+    padding-right: 20px;
+    font-size:2rem;
+}
+.fab:hover{
+    color: cyan;
+    transition-delay: 0.1s;   
+}
+.home-foot{
+    color: #d6d6d6 ;
+    padding-top: 60px;
+    
+}
+span{
+    color:  cyan;
+    font-family: 'Poppins', sans-serif;
+}
+
+/*about pagr*/
+
+.abt{
+    text-align: left;
+    padding-top: 10%;
+}
+.abt-head{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    color:#d6d6d6 ;
+}
+.abt-para{
+    font-family: 'Poppins', sans-serif;
+    color:#d6d6d6 ;   
+    font-size: 1.1rem;
+    line-height:200%;
+}
+.abt-link{
+    font-family: 'Poppins', sans-serif;
+    color:#d6d6d6 ;   
+    font-size: 1.1rem;   
+}
+.abt-link1{
+    text-decoration: none;
+}
+.span-2{
+    text-decoration: none;
+    color:cyan
+}
+.span-2:hover{
+    color: hsl(182, 79%, 42%);
+}
+.foot-class{
+    text-align:left;
+}
+.abt-foot{
+    color: #d6d6d6 ;
+    padding-top: 32px;
+    padding-right: 150px;
+    
+}   
+
+/*education*/
+
+.edu{
+    text-align: left;
+    padding-top: 2%;
+    padding-bottom:2%;
+}
+.edu-head{
+   font-family: 'ubuntu', sans-serif;
+   font-weight: 600;
+   color:#d6d6d6 ;
+}
+.img-tech{
+    width: 100%;
+    height: 100%;
+    border-radius:100px;
+    border: 3px solid cyan;
+}
+.img-sub{
+    width: 100%;
+    height: 410px;
+    border-radius:100px;
+    border: 3px solid cyan;
+}
+.img-sull{
+    width: 1080px;
+    height: 410px;
+    border-radius:100px;
+    border: 3px solid cyan;
+}
+.school-text{
+    color: #d6d6d6;
+    background-color: #212121;
+    font-size: 1.5rem;
+}
+
+/*skills*/
+.skill-head{
+    text-align: center;
+}
+.edu-head{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 500;
+}
+
+
+
+.work-home{
+    padding: 2rem;
+  }
+  
+  .work-box-1{
+    padding-left: 1rem;
+    padding-bottom: 1rem;
+  }
+  
+  @media (max-width:900px) {
+    .work-box-1{
+      padding-left: 0;
+      padding-bottom: 1rem;
+    }
+    .work-home{
+      padding:0rem;
+    }
+  }
+  .box-1-1{
+      text-align: center;
+      background-color:  #353b3b;
+      padding-left: 1rem;
+      padding-top:0;
+      padding-bottom:0;
+      padding-right: 2rem;
+      border: 3px solid cyan;
+      
+  }
+  .box-1-1:hover{
+    border: 3px solid #d6d6d6 ;
+    transition: 1s;
+    background-color: #212121;
+  }
+
+  .work-date-1{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 800;
+    color: #d6d6d6;
+    font-size: 2rem;
+  }
+
+  .work-subhead-1{
+      font-family: 'Ubuntu', sans-serif;
+      font-weight: 900;
+      
+  }
+  .work-para-1{
+      font-family: 'Ubuntu', sans-serif;
+      color: cyan;
+  }
+  .i-skill{
+      font-size: 4rem;
+      padding-left: 20px;
+  }
+  .sbt-foot{
+    color: #d6d6d6 ;
+    padding-top: 17px;
+    padding-right: 150px;
+  }
+
+  /*contact*/
+
+.con-head{
+    color: #d6d6d6;
+    font-family: 'Ubuntu', sans-serif;
+    padding-top: 40px;
+    padding-bottom:50px;
+}
+.cont-main{
+    text-align: center;
+}
+
+.left-col{
+    color: #d6d6d6;
+    padding-right: 20px;
+}
+.cont-i{
+    color: cyan;
+    font-size: 1.3rem;
+    
+}
+.cont-head{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.cont-para{
+    font-size: 1rem;
+    font-family: 'Ubuntu', sans-serif;
+}
+.cont-par{
+    font-size: 1.3rem;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.form-label{
+    color: #d6d6d6;
+}
+.g-3{
+    padding-top: 70px;
+    padding-left: 20px;
+}
+.btn{
+    color:#212121;
+    background-color: aqua;
+    font-family: 'Ubuntu', sans-serif;
+}
+.btn:hover{
+    background-color:#d6d6d6;
+    color:#353b3b;
+    transition: 1s;
+}
+label{
+    font-family: 'Ubuntu', sans-serif;
+}
+.form-control{
+    font-family: 'Ubuntu', sans-serif;
+    color: #353b3b;
+}
+.cbt-foot{
+
+    color: #d6d6d6 ;
+    padding-top: 56px;
+    padding-right: 150px;
+}
