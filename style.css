@@ -2,6 +2,7 @@ body{
     padding-left:10%;
     padding-right:10%;
     background-color: #212121;
+    max-height: 100vh;
 }
 .navbar-brand{
     color: #d6d6d6;
@@ -65,7 +66,7 @@ body{
 }
 .home-foot{
     color: #d6d6d6 ;
-    padding-top: 60px;
+    padding-top: 46px;
     
 }
 span{
@@ -110,7 +111,7 @@ span{
 }
 .abt-foot{
     color: #d6d6d6 ;
-    padding-top: 32px;
+    padding-top: 0px;
     padding-right: 150px;
     
 }   
@@ -218,7 +219,7 @@ span{
   }
   .sbt-foot{
     color: #d6d6d6 ;
-    padding-top: 17px;
+    padding-top: 0px;
     padding-right: 150px;
   }
 
@@ -283,6 +284,6 @@ label{
 .cbt-foot{
 
     color: #d6d6d6 ;
-    padding-top: 56px;
+    padding-top: 30px;
     padding-right: 150px;
 }
